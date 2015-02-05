@@ -40,7 +40,8 @@ h2 {
 }
 
 li {
-    padding: 1px 0px 0px 0px;
+    padding: 0px 0px 3px 0px;
+    font-size: 15px;
 }
 
 ul {
@@ -52,7 +53,7 @@ ul {
 }
 
 .paragraph p {
-    line-height: 2.6;
+    line-height: 2.7;
     display: block;
     margin: 0px 27px 0px 0px;
 }
