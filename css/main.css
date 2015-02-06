@@ -1,18 +1,11 @@
 body {
-	font-family: "Kalimati", Verdana, sans-serif;
-	color: #666;
-	width: 1024px;
+    font-family: "Kalimati", Verdana, sans-serif;
+    color: #666;
+    width: 1024px;
 }
 
-* {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -ms-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-.header h1 {
-	text-align: center;
+h1 {
+    text-align: center;
     color: #666;
     font-size: 48px;
     margin-bottom: 5px;
@@ -20,9 +13,8 @@ body {
 }
 
 .boxed {
-    border: 1px;
-    border: solid #ccc;
-	padding: 28px 40px 35px 32px;
+    border: 1px solid #ccc;
+    padding: 28px 40px 35px 32px;
     margin: 30px 0px 50px 0px;
     width: 375px;
     height: 223px;
@@ -48,13 +40,12 @@ ul {
     padding: 0px 0px 0px 45px;
 }
 
-.text h2 {
+.text-h2 {
     padding: 0px 0px 5px 4px;
 }
 
-.paragraph p {
+p {
     line-height: 2.7;
     display: block;
     margin: 0px 27px 0px 0px;
 }
-
